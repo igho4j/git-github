@@ -1,0 +1,2 @@
+This is to test reset for local repo only
+This is to test revert for remote repo only
